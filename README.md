@@ -1,0 +1,2 @@
+# convert-gradleRepo-mavenRepo
+将Gradle的本地仓库文件转成Maven格式的包路径格式
